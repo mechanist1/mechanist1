@@ -23,17 +23,7 @@ I am **Ilyess** 🧑‍💻, a **Software Engineering Student** with a passion f
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-
-### 📈 GitHub Stats
-
-![Ilyess's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilyess&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilyess&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-
----
 
 ### 🌐 Connect with Me
 

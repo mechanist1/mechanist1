@@ -23,10 +23,13 @@ I am **Ilyess** 🧑‍💻, a **Software Engineering Student** with a passion f
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7C3AED?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🌐 Connect with Me
 
-- [**LinkedIn**](https://www.linkedin.com/in/your-linkedin/) 💼
-- [**Twitter**](https://twitter.com/your-twitter/) 🐦
-- [**Email**](mailto:your-email@example.com) 📧
+- [**LinkedIn**]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/ilyess-mlaouhi/)) 💼
+- [**Email**](mlaouhiilyess@gmail.com) 📧

@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**mechanist1/mechanist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Ilyess** 🧑‍💻, a **Software Engineering Student** with a passion for **technology** and **innovation**. I am eager to leverage my skills and knowledge to make a meaningful impact in the software industry.
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🚀 I excel in **problem-solving** and **software development**, thanks to my practical experience from internships and part-time roles where I have contributed to the development and enhancement of multiple applications and systems.
+- 💡 I have implemented efficient solutions using **algorithms**, **data structures**, **object-oriented programming**, and **design patterns**.
+- 📚 I am always eager to learn and grow, seeking opportunities to apply my skills and contribute to impactful tech solutions.
+- 🤝 My strong **communication** and **teamwork** skills enable me to effectively collaborate with diverse teams and drive innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+
+![Ilyess's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilyess&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilyess&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+### 🌐 Connect with Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/your-linkedin/) 💼
+- [**Twitter**](https://twitter.com/your-twitter/) 🐦
+- [**Email**](mailto:your-email@example.com) 📧

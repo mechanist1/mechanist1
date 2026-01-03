@@ -31,5 +31,5 @@ I am **Ilyess** 🧑‍💻, a **Software Engineering Student** with a passion f
 
 ### 🌐 Connect with Me
 
-- [**LinkedIn**](https://www.linkedin.com/in/ilyess-mlaouhi/) 💼
+- [**LinkedIn**](https://www.linkedin.com/in/ilyessmlaouhi/) 💼
 - [**Email**](mailto:mlaouhiilyess@gmail.com) 📧

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Ilyess** 🧑‍💻, a **Software Engineering Student** with a passion for **technology** and **innovation**. I am eager to leverage my skills and knowledge to make a meaningful impact in the software industry.
+I am **Ilyess** 🧑‍💻, a **Software Engineering ** with a passion for **technology** and **innovation**. I am eager to leverage my skills and knowledge to make a meaningful impact in the software industry.
 
 ### 🌟 About Me
 - 🚀 I excel in **problem-solving** and **software development**, thanks to my practical experience from internships and part-time roles where I have contributed to the development and enhancement of multiple applications and systems.
